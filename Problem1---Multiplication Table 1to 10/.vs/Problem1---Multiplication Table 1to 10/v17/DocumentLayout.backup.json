@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Problem1---Multiplication Table 1to 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9EAC58-0E37-44E8-8CD9-6281FBD3E8B7}|Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10.vcxproj|F:\\Algorithms \u0026 Problem-Solving Level 2\\Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9EAC58-0E37-44E8-8CD9-6281FBD3E8B7}|Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10.vcxproj|solutionrelative:Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem1---Multiplication Table 1to 10.cpp",
+              "DocumentMoniker": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10.cpp",
+              "RelativeDocumentMoniker": "Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10.cpp",
+              "ToolTip": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10.cpp",
+              "RelativeToolTip": "Problem1---Multiplication Table 1to 10\\Problem1---Multiplication Table 1to 10.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T15:12:56.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
