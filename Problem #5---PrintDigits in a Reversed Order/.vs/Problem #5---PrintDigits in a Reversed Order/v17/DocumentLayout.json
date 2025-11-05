@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Problem #5---PrintDigits in a Reversed Order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D5D1CC-62FC-411E-84BA-DD08D57ACC5E}|Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order.vcxproj|F:\\Algorithms \u0026 Problem-Solving Level 2\\Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10D5D1CC-62FC-411E-84BA-DD08D57ACC5E}|Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order.vcxproj|solutionrelative:Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #5---PrintDigits in a Reversed Order.cpp",
+              "DocumentMoniker": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order.cpp",
+              "RelativeDocumentMoniker": "Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order.cpp",
+              "ToolTip": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order.cpp",
+              "RelativeToolTip": "Problem #5---PrintDigits in a Reversed Order\\Problem #5---PrintDigits in a Reversed Order.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T23:17:19.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
