@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Print digits order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{505A238E-A3AD-4338-BC3C-6B59ABACBFA4}|Print digits order\\Print digits order.vcxproj|F:\\Algorithms \u0026 Problem-Solving Level 2\\Print digits order\\Print digits order\\Print digits order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{505A238E-A3AD-4338-BC3C-6B59ABACBFA4}|Print digits order\\Print digits order.vcxproj|solutionrelative:Print digits order\\Print digits order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Print digits order.cpp",
+              "DocumentMoniker": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Print digits order\\Print digits order\\Print digits order.cpp",
+              "RelativeDocumentMoniker": "Print digits order\\Print digits order.cpp",
+              "ToolTip": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Print digits order\\Print digits order\\Print digits order.cpp",
+              "RelativeToolTip": "Print digits order\\Print digits order.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T21:43:59.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Digit frequancy2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE2893-93A6-4333-8A97-9B06E14AC48C}|Digit frequancy2\\Digit frequancy2.vcxproj|F:\\Algorithms \u0026 Problem-Solving Level 2\\Digit frequancy2\\Digit frequancy2\\Digit frequancy2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BEE2893-93A6-4333-8A97-9B06E14AC48C}|Digit frequancy2\\Digit frequancy2.vcxproj|solutionrelative:Digit frequancy2\\Digit frequancy2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Digit frequancy2.cpp",
+              "DocumentMoniker": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Digit frequancy2\\Digit frequancy2\\Digit frequancy2.cpp",
+              "RelativeDocumentMoniker": "Digit frequancy2\\Digit frequancy2.cpp",
+              "ToolTip": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Digit frequancy2\\Digit frequancy2\\Digit frequancy2.cpp",
+              "RelativeToolTip": "Digit frequancy2\\Digit frequancy2.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T21:38:42.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
