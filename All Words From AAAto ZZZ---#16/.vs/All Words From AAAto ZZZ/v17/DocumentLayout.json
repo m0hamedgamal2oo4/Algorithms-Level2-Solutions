@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Algorithms \u0026 Problem-Solving Level 2\\All Words From AAAto ZZZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F58B2D3-1651-46CC-AF10-CEACA65EB52F}|All Words From AAAto ZZZ\\All Words From AAAto ZZZ.vcxproj|F:\\Algorithms \u0026 Problem-Solving Level 2\\All Words From AAAto ZZZ\\All Words From AAAto ZZZ\\All Words From AAAto ZZZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F58B2D3-1651-46CC-AF10-CEACA65EB52F}|All Words From AAAto ZZZ\\All Words From AAAto ZZZ.vcxproj|solutionrelative:All Words From AAAto ZZZ\\All Words From AAAto ZZZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "All Words From AAAto ZZZ.cpp",
+              "DocumentMoniker": "F:\\Algorithms \u0026 Problem-Solving Level 2\\All Words From AAAto ZZZ\\All Words From AAAto ZZZ\\All Words From AAAto ZZZ.cpp",
+              "RelativeDocumentMoniker": "All Words From AAAto ZZZ\\All Words From AAAto ZZZ.cpp",
+              "ToolTip": "F:\\Algorithms \u0026 Problem-Solving Level 2\\All Words From AAAto ZZZ\\All Words From AAAto ZZZ\\All Words From AAAto ZZZ.cpp",
+              "RelativeToolTip": "All Words From AAAto ZZZ\\All Words From AAAto ZZZ.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T00:35:41.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
