@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Min Of Random Array=---#25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E7644B-38BC-427D-A631-FD95C346F75D}|Min Of Random Array=---#25\\Min Of Random Array=---#25.vcxproj|F:\\Algorithms \u0026 Problem-Solving Level 2\\Min Of Random Array=---#25\\Min Of Random Array=---#25\\Min Of Random Array=---#25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33E7644B-38BC-427D-A631-FD95C346F75D}|Min Of Random Array=---#25\\Min Of Random Array=---#25.vcxproj|solutionrelative:Min Of Random Array=---#25\\Min Of Random Array=---#25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Min Of Random Array=---#25.cpp",
+              "DocumentMoniker": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Min Of Random Array=---#25\\Min Of Random Array=---#25\\Min Of Random Array=---#25.cpp",
+              "RelativeDocumentMoniker": "Min Of Random Array=---#25\\Min Of Random Array=---#25.cpp",
+              "ToolTip": "F:\\Algorithms \u0026 Problem-Solving Level 2\\Min Of Random Array=---#25\\Min Of Random Array=---#25\\Min Of Random Array=---#25.cpp",
+              "RelativeToolTip": "Min Of Random Array=---#25\\Min Of Random Array=---#25.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T13:27:03.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
